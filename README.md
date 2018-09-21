@@ -1,3 +1,6 @@
+# farmwars
+We are making a  game for the https://mini-jam.itch.io/
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/srjccsc/farmwars/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
